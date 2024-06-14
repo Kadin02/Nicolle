@@ -60,7 +60,7 @@
 </head>
 <body>
     <div class="message-box">
-        <h1>NICOLLE</h1>
+        <h1>🖤</h1>
         <p>Soy la serpiente que se traga el ratón</p>
         <p>¿Quieres leer el mensaje oculto?</p>
         <button class="si" onclick="aceptarMensaje()">Sí</button>
